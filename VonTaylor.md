@@ -2,6 +2,13 @@
 ## Introduction
 My name is Von Taylor and I am attending the University of California, San Diego and I a motivated and capable Computer Science student with good academic standing, analytical skills, and strong collaboration skills through solving and completing passion projects in a team. Aspiring software developer with experience with Java, C, C++, Kotlin, Python, ARM Assembly, and data structures. Nice to meet you!
 
+## Other Personal Info
+- [Github](https://github.com/Von-Taylor)
+- [LinkedIn](https://www.linkedin.com/in/von-taylor3/)
+- [Resume]()
+
+### Resume
+
 ## Projects
 ### Software Tools and Techniques Lab Reports (CSE 15L)
 - [Lab Report 1](https://von-taylor.github.io/cse15l-lab-reports/lab-report-week-1.html)
@@ -17,3 +24,6 @@ My name is Von Taylor and I am attending the University of California, San Diego
 - [Password Generator Mobile App (Android Studio)](https://github.com/Von-Taylor/Password-Generator)
 - [Show Decider Mobile App (Android Studio)](https://github.com/Von-Taylor/Show-Decider)
 - [Calculator Mobile App (Android Studio)](https://github.com/Von-Taylor/My-Calculator)
+- [Pacbay Alumni Magazine Vol 2 No 3 Publication](https://www.flipsnack.com/pacbayalumni/vol-2-no-3-pacbay-alumni-magazine.html)
+- [Pacbay Alumni Magazine Vol 2 No 2 Publication](https://www.flipsnack.com/pacbayalumni/vol-2-no-2-pacbay-alumni-magazine-1.html)
+- [Pacbay Alumni Magazine Vol 2 No 1 Publication](https://www.flipsnack.com/pacbayalumni/pacbay-alumni-magazine-vol-2-no-1.html)
