@@ -7,8 +7,6 @@ My name is Von Taylor and I am attending the University of California, San Diego
 - [LinkedIn](https://www.linkedin.com/in/von-taylor3/)
 - [Resume](https://github.com/Von-Taylor/VonTaylor/blob/main/Other-Resources/Von_Taylor_Resume.pdf)
 
-### Resume
-
 ## Projects
 ### Software Tools and Techniques Lab Reports (CSE 15L)
 - [Lab Report 1](https://von-taylor.github.io/cse15l-lab-reports/lab-report-week-1.html)
