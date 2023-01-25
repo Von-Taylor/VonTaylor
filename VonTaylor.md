@@ -5,7 +5,7 @@ My name is Von Taylor and I am attending the University of California, San Diego
 ## Other Personal Info
 - [Github](https://github.com/Von-Taylor)
 - [LinkedIn](https://www.linkedin.com/in/von-taylor3/)
-- [Resume]()
+- [Resume](https://github.com/Von-Taylor/VonTaylor/blob/main/Other-Resources/Von_Taylor_Resume.pdf)
 
 ### Resume
 
