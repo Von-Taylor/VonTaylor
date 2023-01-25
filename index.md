@@ -19,6 +19,12 @@ My name is Von Taylor and I am attending the University of California, San Diego
 ### Teaching Computation in the Digital World Portfolio (EDS 124BR)
 - [Portfolio](https://von-taylor.github.io/Portfolio/)
 
+### Peer Intructor Tutoring Slides
+- [Outreach Slides](https://docs.google.com/presentation/d/1IusKmt25851N3LJ9k8SiUwIpQWVht0TRYmyf_BpR034/edit?usp=sharing)
+- [Physics Workshop Slides Set 1](https://docs.google.com/presentation/d/119aLb5Oa-UguGx-zsz6Wc6-K9FBB5MQ0CAZ86c-gnLw/edit?usp=sharing)
+- [Physics Workshop Slides Set 2](https://docs.google.com/presentation/d/1ELYulQB-N2l5JLZol76tm1K6Gn8qdD1br1kA6XNx9iQ/edit?usp=sharing)
+- [Physics Workshop Slides Set 3](https://docs.google.com/presentation/d/1tY2KhB3fndSf9glP2MHZom9-_d6KTFfn_ZqMFIoxkM0/edit?usp=sharing)
+
 ### Passion Projects
 - [Password Generator Mobile App (Android Studio)](https://github.com/Von-Taylor/Password-Generator)
 - [Show Decider Mobile App (Android Studio)](https://github.com/Von-Taylor/Show-Decider)
