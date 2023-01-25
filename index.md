@@ -1,7 +1,7 @@
 # Welcome to my Website!
 ## Introduction
 <p align="center">
-  <img src="Pics/me.jpg" width=25% height=25%>
+  <img src="Other-Resources/me.jpg" width=25% height=25%>
 </p>
 My name is Von Taylor and I am attending the University of California, San Diego and I a motivated and capable Computer Science student with good academic standing, analytical skills, and strong collaboration skills through solving and completing passion projects in a team. Aspiring software developer with experience with Java, C, C++, Kotlin, Python, ARM Assembly, and data structures. Nice to meet you!
 
