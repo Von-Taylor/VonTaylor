@@ -8,7 +8,7 @@ My name is Von Taylor and I am attending the University of California, San Diego
 - [LinkedIn](https://www.linkedin.com/in/von-taylor3/)
 - [Resume](https://github.com/Von-Taylor/VonTaylor/blob/main/Other-Resources/Von_Taylor_Resume.pdf)
 
-## Projects
+## Academic Projects
 ### Software Tools and Techniques Lab Reports (CSE 15L)
 - [Lab Report 1](https://von-taylor.github.io/cse15l-lab-reports/lab-report-week-1.html)
 - [Lab Report 2](https://von-taylor.github.io/cse15l-lab-reports/lab-report-week-3.html)
@@ -25,6 +25,12 @@ My name is Von Taylor and I am attending the University of California, San Diego
 - [Physics Workshop Slide Set 2](https://docs.google.com/presentation/d/1ELYulQB-N2l5JLZol76tm1K6Gn8qdD1br1kA6XNx9iQ/edit?usp=sharing)
 - [Physics Workshop Slide Set 3](https://docs.google.com/presentation/d/1tY2KhB3fndSf9glP2MHZom9-_d6KTFfn_ZqMFIoxkM0/edit?usp=sharing)
 
+### Computer Organization and Systems Programming (CSE 30)
+- (Can't show yet due to Academic Integrity)
+
+### Advanced Data Structures (CSE 100)
+- (Can't show yet due to Academic Integrity)
+
 ### Passion Projects
 - [Password Generator Mobile App (Android Studio)](https://github.com/Von-Taylor/Password-Generator)
 - [Show Decider Mobile App (Android Studio)](https://github.com/Von-Taylor/Show-Decider)
@@ -33,9 +39,3 @@ My name is Von Taylor and I am attending the University of California, San Diego
 - [Pacbay Alumni Magazine Vol 2 No 3 Publication](https://www.flipsnack.com/pacbayalumni/vol-2-no-3-pacbay-alumni-magazine.html)
 - [Pacbay Alumni Magazine Vol 2 No 2 Publication](https://www.flipsnack.com/pacbayalumni/vol-2-no-2-pacbay-alumni-magazine-1.html)
 - [Pacbay Alumni Magazine Vol 2 No 1 Publication](https://www.flipsnack.com/pacbayalumni/pacbay-alumni-magazine-vol-2-no-1.html)
-
-### Computer Organization and Systems Programming (CSE 30)
-- (Can't show yet due to Academic Integrity)
-
-### Advanced Data Structures (CSE 100)
-- (Can't show yet due to Academic Integrity)
