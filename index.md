@@ -1,7 +1,7 @@
 # Welcome to my Website!
 # Introduction
 <img src="Other-Resources/me.jpg" width=200 align=right>
-My name is Von Taylor and I am attending the University of California, San Diego. I am a motivated and capable Computer Science student with strong analytical skills and significant collaboration skills through the solving and completion of projects in a team. I am experienced and passionate in software development, back-end development, and mobile application development through computer science classes and passion projects. Nice to meet you!
+My name is Von Taylor and I am attending the University of California, San Diego. I am a motivated and capable Computer Science student with a background in Java, C, C++, ARM, Kotlin, Python, and Bash Script. I am experienced and passionate in software development, back-end development, and mobile application development through the computer science classes I have taken and the mobile applications I have created. Nice to meet you!
 
 # Other Personal Info
 - [Github](https://github.com/Von-Taylor)
@@ -34,7 +34,7 @@ My name is Von Taylor and I am attending the University of California, San Diego
 ### Advanced Data Structures (CSE 100)
 - (Can't show yet due to Academic Integrity)
 
-# Passion Projects
+# Side Projects
 ### Android Studio
 - [Password Generator Mobile App (Android Studio)](https://github.com/Von-Taylor/Password-Generator)
 - [Show Decider Mobile App (Android Studio)](https://github.com/Von-Taylor/Show-Decider)
