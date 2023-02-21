@@ -1,7 +1,7 @@
 # Welcome to my Website!
 # Introduction
 <img src="Other-Resources/me.jpg" width=200 align=right>
-My name is Von Taylor and I am attending the University of California, San Diego. I am a motivated and capable Computer Science student with strong analytical skills and significant collaboration skills through the solving and completion of projects in a team. I am experienced and passionate with software development, back-end development, and mobile application development through computer science classes and passion projects. Nice to meet you!
+My name is Von Taylor and I am attending the University of California, San Diego. I am a motivated and capable Computer Science student with strong analytical skills and significant collaboration skills through the solving and completion of projects in a team. I am experienced and passionate in software development, back-end development, and mobile application development through computer science classes and passion projects. Nice to meet you!
 
 # Other Personal Info
 - [Github](https://github.com/Von-Taylor)
