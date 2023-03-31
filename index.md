@@ -1,7 +1,9 @@
 # Welcome to my Website!
 # Introduction
 <img src="Other-Resources/me.jpg" width=200 align=right>
-My name is Von Taylor and I am attending the University of California, San Diego. I am a motivated and capable Computer Science student with a background in Java, C, C++, ARM, Kotlin, Python, and Bash Script. I am experienced and passionate in software development, back-end development, and mobile application development through the computer science classes I have taken and the mobile applications I have created. Nice to meet you!
+Hello! My name is Von Taylor and I am pursuing a Bachelor of Science in Computer Science and I am looking to gain real-world experience in the technology field through internships! I have an interest in software development mobile application development, and full-stack development. I have experience in the Java, C, C++, Kotlin, Javascript, HTML, CSS, Python, and ARM programming languages, with Java being my current most comfortable language.
+
+Nice to meet you!
 
 # Other Personal Info
 - [Github](https://github.com/Von-Taylor)
