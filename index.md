@@ -35,9 +35,11 @@ Nice to meet you!
 
 ### Computer Organization and Systems Programming (CSE 30)
 - (Can't show yet due to Academic Integrity)
+- (Please contact me to request access)
 
 ### Advanced Data Structures (CSE 100)
 - (Can't show yet due to Academic Integrity)
+- (Please contact me to request access)
 
 # Side Projects
 ### Android Studio
