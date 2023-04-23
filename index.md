@@ -44,7 +44,6 @@ Nice to meet you!
 # Side Projects
 ### Android Studio
 - [Password Generator Mobile App (Android Studio)](https://github.com/Von-Taylor/Password-Generator)
-- [Show Decider Mobile App (Android Studio)](https://github.com/Von-Taylor/Show-Decider)
 - [Calculator Mobile App (Android Studio)](https://github.com/Von-Taylor/My-Calculator)
 
 ### Pacific Bay High School Alumni Magazine Non-Profit Organization
