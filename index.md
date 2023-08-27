@@ -11,6 +11,9 @@ Nice to meet you!
 - [Resume](https://github.com/Von-Taylor/VonTaylor/blob/main/Other-Resources/Von_Taylor_Resume.pdf)
 
 # Academic Projects
+### Software Development (CSE 110)
+- [Sayit Assistant]([https://von-taylor.github.io/cse15l-lab-reports/lab-report-week-1.html](https://github.com/Von-Taylor/Sayit-Assistant))
+
 ### Software Tools and Techniques Lab Reports (CSE 15L)
 - [Lab Report 1](https://von-taylor.github.io/cse15l-lab-reports/lab-report-week-1.html)
 - [Lab Report 2](https://von-taylor.github.io/cse15l-lab-reports/lab-report-week-3.html)
